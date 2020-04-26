@@ -1,0 +1,90 @@
+html{
+	position: relative;
+}
+body {
+  font-family: "Arial";
+  background-color: #7cc188;
+}
+.carousel-item{
+	height: 500px;
+}
+.bd-example{
+	padding-top:50px;
+}
+.navbar-light{
+	background-color: #abc45c;
+	font-size: 18px;
+}
+hr {
+	width: 250px;
+	border-top: 3px solid white;
+}
+.col-sm-12{
+	padding-top: 20px;
+}
+footer{
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #abc45c;
+	padding: 20px;
+	padding-right: 0;
+  	padding-left: 0;
+  	border-radius: 0;
+
+}
+footer p {
+	color:#1e2210;
+	font-size: 0.9em;
+}
+.nav-tabs {
+  border-bottom: none;
+}
+.kontak{
+	padding: 2rem 1rem;
+  margin-bottom: 1rem;
+  background-color: #f5c817;
+  border-radius: 0.3rem;
+
+}
+.kontak .text-center{
+padding-top:30px;
+}
+.layanan{
+	padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+  background-color: #f5c817;
+}
+.layanan .text-center{
+	padding-top:30px;
+}
+.col{
+	text-align: center;
+	border-radius: 0.3rem;
+	background-color: #7cc188;
+	padding-top: 10px;
+}
+.profile{
+	width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:#f5c817; 	
+}
+.profile .text-center{
+	padding-top: 65px;
+}
+.datadiri{
+	padding: 2rem 1rem;
+  margin-bottom: 1rem;
+  background-color: #eee;
+  border-radius: 0.3rem;
+}
+.form-control{
+	border:none;
+	border-radius: none;
+	background-color: #eee;
+}
